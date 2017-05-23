@@ -1,0 +1,33 @@
+<?php 
+
+// tickets list generated on http://www.generatedata.com
+return array(
+	array("number"=>"72301","transportType"=>"Airplane","transportNumber"=>"23458","seat"=>"12A", "leg"=>3,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your next leg.","departureLocation"=>"San Francisco","arriveLocation"=>"Saint-Pierre","trip"=>"AA123"),
+	array("number"=>"16482","transportType"=>"Train","transportNumber"=>"12344","seat"=>"3312A", "leg"=>1,"baggagePickUpInformation"=>"","departureLocation"=>"Bonavista","arriveLocation"=>"Buckie","trip"=>"AA123"),
+	array("number"=>"04364","transportType"=>"Airplane","transportNumber"=>"3636","seat"=>"18A", "leg"=>4,"baggagePickUpInformation"=>"Pick up your baggage at baggage clain number 10.","departureLocation"=>"Starachowice","arriveLocation"=>"San Fele","trip"=>"AA123"),
+	array("number"=>"75090","transportType"=>"Airplane","transportNumber"=>"2121","seat"=>"19A", "leg"=>2,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your next leg.","departureLocation"=>"Harrison Hot Springs","arriveLocation"=>"Comox","trip"=>"AA123"),
+	
+    array("number"=>"95437","transportType"=>"Train","transportNumber"=>"11445","seat"=>"23A", "leg"=>1,"baggagePickUpInformation"=>"","departureLocation"=>"Nemi","arriveLocation"=>"Lafayette","trip"=>"BB999"),
+	array("number"=>"44382","transportType"=>"Bus","transportNumber"=>"32111","seat"=>"44D", "leg"=>2,"baggagePickUpInformation"=>"Pick up your baggage at baggage clain number 99","departureLocation"=>"South Burlington","arriveLocation"=>"Burin","trip"=>"BB999"),
+	
+    array("number"=>"64501","transportType"=>"Bus","transportNumber"=>"58","seat"=>"23A", "leg"=>8,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your last leg.","departureLocation"=>"San Juan (San Juan de Tibás)","arriveLocation"=>"Camponogara","trip"=>"CC1001"),
+	array("number"=>"29385","transportType"=>"Airplane","transportNumber"=>"5552","seat"=>"12A", "leg"=>6,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your next leg.","departureLocation"=>"Satna","arriveLocation"=>"Murdochville","trip"=>"CC1001"),
+	array("number"=>"20507","transportType"=>"Train","transportNumber"=>"5655","seat"=>"34A", "leg"=>9,"baggagePickUpInformation"=>"Pick up your baggage at baggage clain number 34B.","departureLocation"=>"Steendorp","arriveLocation"=>"San Cesario di Lecce","trip"=>"CC1001"),
+	array("number"=>"99020","transportType"=>"Airplane","transportNumber"=>"67879","seat"=>"21B", "leg"=>2,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your next leg.","departureLocation"=>"Valera Fratta","arriveLocation"=>"Santa Juana","trip"=>"CC1001"),
+	array("number"=>"05563","transportType"=>"Train","transportNumber"=>"378899","seat"=>"33C", "leg"=>3,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your next leg.","departureLocation"=>"LaSalle","arriveLocation"=>"Santa Maria a Monte","trip"=>"CC1001"),
+	array("number"=>"19322","transportType"=>"Airplane","transportNumber"=>"33225","seat"=>"34E", "leg"=>5,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your next leg.","departureLocation"=>"Sunderland","arriveLocation"=>"Stewart","trip"=>"CC1001"),
+	array("number"=>"85200","transportType"=>"Train","transportNumber"=>"56557","seat"=>"21E", "leg"=>1,"baggagePickUpInformation"=>"","departureLocation"=>"Haasdonk","arriveLocation"=>"Lewiston","trip"=>"CC1001"),
+	array("number"=>"96957","transportType"=>"Airplane","transportNumber"=>"6778","seat"=>"45D", "leg"=>7,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your next leg.","departureLocation"=>"Chelsea","arriveLocation"=>"Sudbury","trip"=>"CC1001"),
+	array("number"=>"49803","transportType"=>"Airplane","transportNumber"=>"75334","seat"=>"12A", "leg"=>4,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your next leg.","departureLocation"=>"Pepingen","arriveLocation"=>"Vucht","trip"=>"CC1001"),
+	
+    array("number"=>"05178","transportType"=>"Airplane","transportNumber"=>"09987","seat"=>"21A", "leg"=>3,"baggagePickUpInformation"=>"","departureLocation"=>"South Dum Dum","arriveLocation"=>"Allumiere","trip"=>"RT1008"),
+	array("number"=>"71956","transportType"=>"Train","transportNumber"=>"77887","seat"=>"14B", "leg"=>2,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your last leg.","departureLocation"=>"Allentown","arriveLocation"=>"Wondelgem","trip"=>"RT1008"),
+	array("number"=>"85064","transportType"=>"Airplane","transportNumber"=>"87989","seat"=>"30C", "leg"=>1,"baggagePickUpInformation"=>"","departureLocation"=>"Kleinmachnow","arriveLocation"=>"Asti","trip"=>"RT1008"),
+	
+    array("number"=>"86236","transportType"=>"Bus","transportNumber"=>"33236","seat"=>"11B", "leg"=>1,"baggagePickUpInformation"=>"","departureLocation"=>"Glendale","arriveLocation"=>"Redruth","trip"=>"GH8877"),
+	array("number"=>"67735","transportType"=>"Train","transportNumber"=>"72524","seat"=>"22A", "leg"=>3,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your next leg.","departureLocation"=>"Romeral","arriveLocation"=>"Maransart","trip"=>"GH8877"),
+	array("number"=>"07769","transportType"=>"Train","transportNumber"=>"66677","seat"=>"21D", "leg"=>2,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your next leg.","departureLocation"=>"Francavilla in Sinni","arriveLocation"=>"Natales","trip"=>"GH8877"),
+	array("number"=>"45884","transportType"=>"Bus","transportNumber"=>"7646","seat"=>"12A", "leg"=>5,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your last leg.","departureLocation"=>"Westmount","arriveLocation"=>"Saint-Nicolas","trip"=>"GH8877"),
+	array("number"=>"20248","transportType"=>"Train","transportNumber"=>"5423452","seat"=>"32B", "leg"=>6,"baggagePickUpInformation"=>"Pick up your baggage at baggage clain number 22.","departureLocation"=>"Giarratana","arriveLocation"=>"Guntakal","trip"=>"GH8877"),
+	array("number"=>"53127","transportType"=>"Bus","transportNumber"=>"4523452","seat"=>"20C", "leg"=>4,"baggagePickUpInformation"=>"Your baggage will we automatically transferred from your next leg.","departureLocation"=>"Cefalà Diana","arriveLocation"=>"Fort Good Hope","trip"=>"GH8877"),
+);
